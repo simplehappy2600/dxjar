@@ -1,0 +1,1 @@
+unzip dx.zip, replace android-sdk\platform-tools\lib\dx.jar
